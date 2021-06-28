@@ -5,6 +5,8 @@ _Compare imágenes de antes y después, para la clasificación, CGI y otras comp
 ## Descripción 🚀
 
 _Compare imágenes de antes y después, para la clasificación, CGI y otras comparaciones de retoques usando IONIC._
+_este ejemplo hace uso de la libreria image compare viewer_
+https://image-compare-viewer.netlify.app
 
 ### Instalación 📋
 
